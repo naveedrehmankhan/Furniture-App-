@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "507196364800",
+    "project_id": "furnitre-app",
+    "storage_bucket": "furnitre-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507196364800:android:4143e042e1a0803e0aa0e5",
+        "android_client_info": {
+          "package_name": "com.example.digital_elliptical"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRlho64L_HeXSULJ02iVlzDXEzzVSyd6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
