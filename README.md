@@ -1,4 +1,4 @@
-# digital_elliptical
+# furniture App
 
 A new Flutter project.
 
